@@ -1,0 +1,309 @@
+﻿fiscal_year,fy_start,fy_end,industry_code,industry_jp,industry_en,level,export_ratio_pct,source_file
+2014,2014-04-01,2015-03-31,0,合計,All industries,total,26.7,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2,製造業,Manufacturing (overall),group,31.1,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-01,食料品,Food Products,industry,1.3,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-02,繊維,Textiles,industry,10.8,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,8.1,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-04,化学,Chemicals,industry,22.8,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-05,石油・石炭,Petroleum & Coal,industry,8.0,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,17.9,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-07,鉄鋼,Iron & Steel,industry,29.7,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,26.7,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-09,金属製品,Metal Products,industry,8.4,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-10,はん用機械,General-Purpose Machinery,industry,30.3,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-11,生産用機械,Production Machinery,industry,46.8,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-12,業務用機械,Business-Use Machinery,industry,50.2,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-13,電気機械,Electrical Machinery,industry,33.7,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,44.2,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-15,輸送機械,Transport Equipment,industry,43.2,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,2-16,その他の製造業,Other Manufacturing,industry,24.5,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3,非製造業,Non-Manufacturing (overall),group,17.1,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,11.9,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-02,鉱業,Mining,industry,5.2,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-03,建設業,Construction,industry,7.2,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-04,情報通信業,Information & Communications,industry,1.7,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-05,運輸業,Transportation (services),industry,32.5,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-06,卸売業,Wholesale,industry,19.1,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-07,小売業,Retail,industry,1.6,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-08,サービス業,Services,industry,28.4,Fiscal_Year_2014.xls
+2014,2014-04-01,2015-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.0,Fiscal_Year_2014.xls
+2015,2015-04-01,2016-03-31,0,合計,All industries,total,27.1,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2,製造業,Manufacturing (overall),group,32.2,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-01,食料品,Food Products,industry,1.5,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-02,繊維,Textiles,industry,11.9,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,7.1,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-04,化学,Chemicals,industry,24.4,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-05,石油・石炭,Petroleum & Coal,industry,10.9,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,25.5,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-07,鉄鋼,Iron & Steel,industry,28.2,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,24.8,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-09,金属製品,Metal Products,industry,12.0,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-10,はん用機械,General-Purpose Machinery,industry,29.5,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-11,生産用機械,Production Machinery,industry,44.0,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-12,業務用機械,Business-Use Machinery,industry,49.9,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-13,電気機械,Electrical Machinery,industry,32.2,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,47.6,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-15,輸送機械,Transport Equipment,industry,42.9,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,2-16,その他の製造業,Other Manufacturing,industry,26.9,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3,非製造業,Non-Manufacturing (overall),group,16.4,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,11.4,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-02,鉱業,Mining,industry,5.9,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-03,建設業,Construction,industry,6.9,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-04,情報通信業,Information & Communications,industry,2.1,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-05,運輸業,Transportation (services),industry,35.1,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-06,卸売業,Wholesale,industry,18.2,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-07,小売業,Retail,industry,2.3,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-08,サービス業,Services,industry,29.4,Fiscal_Year_2015.xls
+2015,2015-04-01,2016-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.5,Fiscal_Year_2015.xls
+2016,2016-04-01,2017-03-31,0,合計,All industries,total,26.0,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2,製造業,Manufacturing (overall),group,31.5,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-01,食料品,Food Products,industry,1.7,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-02,繊維,Textiles,industry,10.4,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,7.6,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-04,化学,Chemicals,industry,21.8,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-05,石油・石炭,Petroleum & Coal,industry,11.1,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,23.7,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-07,鉄鋼,Iron & Steel,industry,26.8,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,25.7,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-09,金属製品,Metal Products,industry,11.4,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-10,はん用機械,General-Purpose Machinery,industry,33.3,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-11,生産用機械,Production Machinery,industry,45.6,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-12,業務用機械,Business-Use Machinery,industry,49.3,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-13,電気機械,Electrical Machinery,industry,30.8,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,46.3,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-15,輸送機械,Transport Equipment,industry,42.3,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,2-16,その他の製造業,Other Manufacturing,industry,21.8,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3,非製造業,Non-Manufacturing (overall),group,14.9,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,13.2,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-02,鉱業,Mining,industry,4.8,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-03,建設業,Construction,industry,6.7,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-04,情報通信業,Information & Communications,industry,2.5,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-05,運輸業,Transportation (services),industry,22.1,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-06,卸売業,Wholesale,industry,18.0,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-07,小売業,Retail,industry,1.0,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-08,サービス業,Services,industry,21.9,Fiscal_Year_2016.xls
+2016,2016-04-01,2017-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.7,Fiscal_Year_2016.xls
+2017,2017-04-01,2018-03-31,0,合計,All industries,total,26.7,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2,製造業,Manufacturing (overall),group,32.1,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-01,食料品,Food Products,industry,1.9,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-02,繊維,Textiles,industry,11.1,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,7.4,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-04,化学,Chemicals,industry,23.3,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-05,石油・石炭,Petroleum & Coal,industry,12.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,25.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-07,鉄鋼,Iron & Steel,industry,25.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,26.7,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-09,金属製品,Metal Products,industry,9.1,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-10,はん用機械,General-Purpose Machinery,industry,33.1,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-11,生産用機械,Production Machinery,industry,48.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-12,業務用機械,Business-Use Machinery,industry,49.0,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-13,電気機械,Electrical Machinery,industry,29.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,47.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-15,輸送機械,Transport Equipment,industry,44.3,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,2-16,その他の製造業,Other Manufacturing,industry,25.6,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3,非製造業,Non-Manufacturing (overall),group,15.3,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,22.1,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-02,鉱業,Mining,industry,3.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-03,建設業,Construction,industry,6.6,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-04,情報通信業,Information & Communications,industry,3.8,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-05,運輸業,Transportation (services),industry,28.7,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-06,卸売業,Wholesale,industry,18.6,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-07,小売業,Retail,industry,2.2,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-08,サービス業,Services,industry,20.5,Fiscal_Year_2017.xlsx
+2017,2017-04-01,2018-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,0.9,Fiscal_Year_2017.xlsx
+2018,2018-04-01,2019-03-31,0,合計,All industries,total,26.1,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2,製造業,Manufacturing (overall),group,32.1,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-01,食料品,Food Products,industry,1.9,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-02,繊維,Textiles,industry,10.0,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,7.5,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-04,化学,Chemicals,industry,24.2,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-05,石油・石炭,Petroleum & Coal,industry,13.3,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,25.3,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-07,鉄鋼,Iron & Steel,industry,25.4,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,27.2,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-09,金属製品,Metal Products,industry,9.4,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-10,はん用機械,General-Purpose Machinery,industry,26.5,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-11,生産用機械,Production Machinery,industry,47.5,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-12,業務用機械,Business-Use Machinery,industry,50.3,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-13,電気機械,Electrical Machinery,industry,28.1,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,47.2,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-15,輸送機械,Transport Equipment,industry,44.5,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,2-16,その他の製造業,Other Manufacturing,industry,27.2,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3,非製造業,Non-Manufacturing (overall),group,14.0,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,21.0,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-02,鉱業,Mining,industry,5.4,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-03,建設業,Construction,industry,5.1,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-04,情報通信業,Information & Communications,industry,3.8,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-05,運輸業,Transportation (services),industry,16.0,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-06,卸売業,Wholesale,industry,16.8,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-07,小売業,Retail,industry,2.7,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-08,サービス業,Services,industry,18.0,Fiscal_Year_2018.xlsx
+2018,2018-04-01,2019-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.3,Fiscal_Year_2018.xlsx
+2019,2019-04-01,2020-03-31,0,合計,All industries,total,26.1,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2,製造業,Manufacturing (overall),group,32.4,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-01,食料品,Food Products,industry,2.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-02,繊維,Textiles,industry,10.5,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,7.1,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-04,化学,Chemicals,industry,25.0,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-05,石油・石炭,Petroleum & Coal,industry,11.6,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,23.1,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-07,鉄鋼,Iron & Steel,industry,29.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,30.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-09,金属製品,Metal Products,industry,9.1,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-10,はん用機械,General-Purpose Machinery,industry,22.7,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-11,生産用機械,Production Machinery,industry,45.0,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-12,業務用機械,Business-Use Machinery,industry,48.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-13,電気機械,Electrical Machinery,industry,27.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,43.8,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-15,輸送機械,Transport Equipment,industry,46.7,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,2-16,その他の製造業,Other Manufacturing,industry,26.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3,非製造業,Non-Manufacturing (overall),group,12.8,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,30.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-02,鉱業,Mining,industry,5.8,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-03,建設業,Construction,industry,6.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-04,情報通信業,Information & Communications,industry,1.5,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-05,運輸業,Transportation (services),industry,19.4,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-06,卸売業,Wholesale,industry,16.3,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-07,小売業,Retail,industry,3.0,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-08,サービス業,Services,industry,9.2,Fiscal_Year_2019.xlsx
+2019,2019-04-01,2020-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.3,Fiscal_Year_2019.xlsx
+2020,2020-04-01,2021-03-31,0,合計,All industries,total,25.9,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2,製造業,Manufacturing (overall),group,32.6,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-01,食料品,Food Products,industry,2.5,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-02,繊維,Textiles,industry,10.5,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,7.8,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-04,化学,Chemicals,industry,26.1,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-05,石油・石炭,Petroleum & Coal,industry,6.6,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,23.8,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-07,鉄鋼,Iron & Steel,industry,24.4,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,34.2,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-09,金属製品,Metal Products,industry,10.6,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-10,はん用機械,General-Purpose Machinery,industry,32.5,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-11,生産用機械,Production Machinery,industry,47.1,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-12,業務用機械,Business-Use Machinery,industry,47.1,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-13,電気機械,Electrical Machinery,industry,26.3,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,43.3,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-15,輸送機械,Transport Equipment,industry,45.5,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,2-16,その他の製造業,Other Manufacturing,industry,27.2,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3,非製造業,Non-Manufacturing (overall),group,13.0,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,16.3,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-02,鉱業,Mining,industry,4.7,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-03,建設業,Construction,industry,5.8,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-04,情報通信業,Information & Communications,industry,2.4,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-05,運輸業,Transportation (services),industry,24.6,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-06,卸売業,Wholesale,industry,16.5,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-07,小売業,Retail,industry,2.2,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-08,サービス業,Services,industry,14.1,Fiscal_Year_2020.xlsx
+2020,2020-04-01,2021-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.7,Fiscal_Year_2020.xlsx
+2021,2021-04-01,2022-03-31,0,合計,All industries,total,27.1,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2,製造業,Manufacturing (overall),group,34.2,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-01,食料品,Food Products,industry,2.6,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-02,繊維,Textiles,industry,12.0,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,8.6,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-04,化学,Chemicals,industry,27.4,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-05,石油・石炭,Petroleum & Coal,industry,10.5,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,29.4,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-07,鉄鋼,Iron & Steel,industry,28.6,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,33.9,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-09,金属製品,Metal Products,industry,11.4,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-10,はん用機械,General-Purpose Machinery,industry,31.6,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-11,生産用機械,Production Machinery,industry,51.2,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-12,業務用機械,Business-Use Machinery,industry,49.5,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-13,電気機械,Electrical Machinery,industry,26.9,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,46.0,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-15,輸送機械,Transport Equipment,industry,46.7,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,2-16,その他の製造業,Other Manufacturing,industry,30.0,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3,非製造業,Non-Manufacturing (overall),group,13.3,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,5.8,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-02,鉱業,Mining,industry,1.3,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-03,建設業,Construction,industry,3.6,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-04,情報通信業,Information & Communications,industry,4.8,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-05,運輸業,Transportation (services),industry,15.4,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-06,卸売業,Wholesale,industry,18.6,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-07,小売業,Retail,industry,1.8,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-08,サービス業,Services,industry,9.1,Fiscal_Year_2021.xlsx
+2021,2021-04-01,2022-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.4,Fiscal_Year_2021.xlsx
+2022,2022-04-01,2023-03-31,0,合計,All industries,total,27.5,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2,製造業,Manufacturing (overall),group,35.7,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-01,食料品,Food Products,industry,2.9,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-02,繊維,Textiles,industry,12.3,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,8.3,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-04,化学,Chemicals,industry,29.3,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-05,石油・石炭,Petroleum & Coal,industry,13.8,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,28.6,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-07,鉄鋼,Iron & Steel,industry,28.3,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,37.6,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-09,金属製品,Metal Products,industry,10.5,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-10,はん用機械,General-Purpose Machinery,industry,31.8,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-11,生産用機械,Production Machinery,industry,55.3,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-12,業務用機械,Business-Use Machinery,industry,52.5,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-13,電気機械,Electrical Machinery,industry,34.5,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,46.7,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-15,輸送機械,Transport Equipment,industry,46.1,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,2-16,その他の製造業,Other Manufacturing,industry,32.5,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3,非製造業,Non-Manufacturing (overall),group,11.6,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,5.3,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-02,鉱業,Mining,industry,1.5,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-03,建設業,Construction,industry,5.4,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-04,情報通信業,Information & Communications,industry,4.3,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-05,運輸業,Transportation (services),industry,20.5,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-06,卸売業,Wholesale,industry,15.7,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-07,小売業,Retail,industry,0.6,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-08,サービス業,Services,industry,8.7,Fiscal_Year_2022.xlsx
+2022,2022-04-01,2023-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,0.9,Fiscal_Year_2022.xlsx
+2023,2023-04-01,2024-03-31,0,合計,All industries,total,28.0,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2,製造業,Manufacturing (overall),group,37.6,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-01,食料品,Food Products,industry,3.3,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-02,繊維,Textiles,industry,11.7,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,9.2,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-04,化学,Chemicals,industry,28.4,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-05,石油・石炭,Petroleum & Coal,industry,6.3,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,27.9,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-07,鉄鋼,Iron & Steel,industry,21.5,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,42.4,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-09,金属製品,Metal Products,industry,12.7,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-10,はん用機械,General-Purpose Machinery,industry,34.0,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-11,生産用機械,Production Machinery,industry,52.8,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-12,業務用機械,Business-Use Machinery,industry,48.3,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-13,電気機械,Electrical Machinery,industry,27.1,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,44.9,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-15,輸送機械,Transport Equipment,industry,50.8,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,2-16,その他の製造業,Other Manufacturing,industry,30.5,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3,非製造業,Non-Manufacturing (overall),group,10.3,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,6.0,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-02,鉱業,Mining,industry,5.7,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-03,建設業,Construction,industry,5.2,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-04,情報通信業,Information & Communications,industry,3.4,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-05,運輸業,Transportation (services),industry,13.0,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-06,卸売業,Wholesale,industry,15.2,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-07,小売業,Retail,industry,1.1,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-08,サービス業,Services,industry,10.0,Fiscal_Year_2023.xlsx
+2023,2023-04-01,2024-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,0.6,Fiscal_Year_2023.xlsx
+2024,2024-04-01,2025-03-31,0,合計,All industries,total,26.6,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2,製造業,Manufacturing (overall),group,35.1,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-01,食料品,Food Products,industry,2.8,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-02,繊維,Textiles,industry,9.8,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-03,木材紙パ,"Wood, Paper & Pulp",industry,9.4,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-04,化学,Chemicals,industry,30.7,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-05,石油・石炭,Petroleum & Coal,industry,11.8,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-06,窯業・土石,"Ceramics, Stone & Clay",industry,29.6,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-07,鉄鋼,Iron & Steel,industry,22.8,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-08,非鉄金属,Non-Ferrous Metals,industry,34.8,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-09,金属製品,Metal Products,industry,13.2,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-10,はん用機械,General-Purpose Machinery,industry,33.6,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-11,生産用機械,Production Machinery,industry,49.8,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-12,業務用機械,Business-Use Machinery,industry,48.2,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-13,電気機械,Electrical Machinery,industry,24.7,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-14,情報通信機械,Info & Communication Equipment,industry,48.2,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-15,輸送機械,Transport Equipment,industry,47.0,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,2-16,その他の製造業,Other Manufacturing,industry,29.5,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3,非製造業,Non-Manufacturing (overall),group,9.9,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-01,農林漁業,"Agriculture, Forestry & Fishery",industry,16.5,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-02,鉱業,Mining,industry,2.3,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-03,建設業,Construction,industry,4.1,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-04,情報通信業,Information & Communications,industry,3.9,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-05,運輸業,Transportation (services),industry,12.0,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-06,卸売業,Wholesale,industry,13.9,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-07,小売業,Retail,industry,2.1,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-08,サービス業,Services,industry,14.5,Fiscal_Year_2024.xlsx
+2024,2024-04-01,2025-03-31,3-09,その他の非製造業,Other Non-Manufacturing,industry,1.0,Fiscal_Year_2024.xlsx
