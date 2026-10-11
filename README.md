@@ -12,7 +12,6 @@ The analysis compares companies from multiple Japanese industries to determine w
 
 
 Reproducing the Analysis
-
-Download or clone this repository.
-Open Japanese Stock vs USD vs Exports.ipynb in the All Data and Notebook folder
-Run all cells of code
+* Download or clone this repository.
+* Open Japanese Stock vs USD vs Exports.ipynb in the All Data and Notebook folder
+* Run all cells of code
