@@ -1,0 +1,276 @@
+fiscal_year,industry,export_ratio_pct
+2014,Food Products,1.3
+2014,Textiles,10.8
+2014,"Wood, Paper & Pulp",8.1
+2014,Chemicals,22.8
+2014,Petroleum & Coal,8.0
+2014,"Ceramics, Stone & Clay",17.9
+2014,Iron & Steel,29.7
+2014,Non-Ferrous Metals,26.7
+2014,Metal Products,8.4
+2014,General-Purpose Machinery,30.3
+2014,Production Machinery,46.8
+2014,Business-Use Machinery,50.2
+2014,Electrical Machinery,33.7
+2014,Info & Communication Equipment,44.2
+2014,Transport Equipment,43.2
+2014,Other Manufacturing,24.5
+2014,"Agriculture, Forestry & Fishery",11.9
+2014,Mining,5.2
+2014,Construction,7.2
+2014,Information & Communications,1.7
+2014,Transportation (services),32.5
+2014,Wholesale,19.1
+2014,Retail,1.6
+2014,Services,28.4
+2014,Other Non-Manufacturing,1.0
+2015,Food Products,1.5
+2015,Textiles,11.9
+2015,"Wood, Paper & Pulp",7.1
+2015,Chemicals,24.4
+2015,Petroleum & Coal,10.9
+2015,"Ceramics, Stone & Clay",25.5
+2015,Iron & Steel,28.2
+2015,Non-Ferrous Metals,24.8
+2015,Metal Products,12.0
+2015,General-Purpose Machinery,29.5
+2015,Production Machinery,44.0
+2015,Business-Use Machinery,49.9
+2015,Electrical Machinery,32.2
+2015,Info & Communication Equipment,47.6
+2015,Transport Equipment,42.9
+2015,Other Manufacturing,26.9
+2015,"Agriculture, Forestry & Fishery",11.4
+2015,Mining,5.9
+2015,Construction,6.9
+2015,Information & Communications,2.1
+2015,Transportation (services),35.1
+2015,Wholesale,18.2
+2015,Retail,2.3
+2015,Services,29.4
+2015,Other Non-Manufacturing,1.5
+2016,Food Products,1.7
+2016,Textiles,10.4
+2016,"Wood, Paper & Pulp",7.6
+2016,Chemicals,21.8
+2016,Petroleum & Coal,11.1
+2016,"Ceramics, Stone & Clay",23.7
+2016,Iron & Steel,26.8
+2016,Non-Ferrous Metals,25.7
+2016,Metal Products,11.4
+2016,General-Purpose Machinery,33.3
+2016,Production Machinery,45.6
+2016,Business-Use Machinery,49.3
+2016,Electrical Machinery,30.8
+2016,Info & Communication Equipment,46.3
+2016,Transport Equipment,42.3
+2016,Other Manufacturing,21.8
+2016,"Agriculture, Forestry & Fishery",13.2
+2016,Mining,4.8
+2016,Construction,6.7
+2016,Information & Communications,2.5
+2016,Transportation (services),22.1
+2016,Wholesale,18.0
+2016,Retail,1.0
+2016,Services,21.9
+2016,Other Non-Manufacturing,1.7
+2017,Food Products,1.9
+2017,Textiles,11.1
+2017,"Wood, Paper & Pulp",7.4
+2017,Chemicals,23.3
+2017,Petroleum & Coal,12.2
+2017,"Ceramics, Stone & Clay",25.2
+2017,Iron & Steel,25.2
+2017,Non-Ferrous Metals,26.7
+2017,Metal Products,9.1
+2017,General-Purpose Machinery,33.1
+2017,Production Machinery,48.2
+2017,Business-Use Machinery,49.0
+2017,Electrical Machinery,29.2
+2017,Info & Communication Equipment,47.2
+2017,Transport Equipment,44.3
+2017,Other Manufacturing,25.6
+2017,"Agriculture, Forestry & Fishery",22.1
+2017,Mining,3.2
+2017,Construction,6.6
+2017,Information & Communications,3.8
+2017,Transportation (services),28.7
+2017,Wholesale,18.6
+2017,Retail,2.2
+2017,Services,20.5
+2017,Other Non-Manufacturing,0.9
+2018,Food Products,1.9
+2018,Textiles,10.0
+2018,"Wood, Paper & Pulp",7.5
+2018,Chemicals,24.2
+2018,Petroleum & Coal,13.3
+2018,"Ceramics, Stone & Clay",25.3
+2018,Iron & Steel,25.4
+2018,Non-Ferrous Metals,27.2
+2018,Metal Products,9.4
+2018,General-Purpose Machinery,26.5
+2018,Production Machinery,47.5
+2018,Business-Use Machinery,50.3
+2018,Electrical Machinery,28.1
+2018,Info & Communication Equipment,47.2
+2018,Transport Equipment,44.5
+2018,Other Manufacturing,27.2
+2018,"Agriculture, Forestry & Fishery",21.0
+2018,Mining,5.4
+2018,Construction,5.1
+2018,Information & Communications,3.8
+2018,Transportation (services),16.0
+2018,Wholesale,16.8
+2018,Retail,2.7
+2018,Services,18.0
+2018,Other Non-Manufacturing,1.3
+2019,Food Products,2.3
+2019,Textiles,10.5
+2019,"Wood, Paper & Pulp",7.1
+2019,Chemicals,25.0
+2019,Petroleum & Coal,11.6
+2019,"Ceramics, Stone & Clay",23.1
+2019,Iron & Steel,29.3
+2019,Non-Ferrous Metals,30.3
+2019,Metal Products,9.1
+2019,General-Purpose Machinery,22.7
+2019,Production Machinery,45.0
+2019,Business-Use Machinery,48.3
+2019,Electrical Machinery,27.3
+2019,Info & Communication Equipment,43.8
+2019,Transport Equipment,46.7
+2019,Other Manufacturing,26.3
+2019,"Agriculture, Forestry & Fishery",30.3
+2019,Mining,5.8
+2019,Construction,6.3
+2019,Information & Communications,1.5
+2019,Transportation (services),19.4
+2019,Wholesale,16.3
+2019,Retail,3.0
+2019,Services,9.2
+2019,Other Non-Manufacturing,1.3
+2020,Food Products,2.5
+2020,Textiles,10.5
+2020,"Wood, Paper & Pulp",7.8
+2020,Chemicals,26.1
+2020,Petroleum & Coal,6.6
+2020,"Ceramics, Stone & Clay",23.8
+2020,Iron & Steel,24.4
+2020,Non-Ferrous Metals,34.2
+2020,Metal Products,10.6
+2020,General-Purpose Machinery,32.5
+2020,Production Machinery,47.1
+2020,Business-Use Machinery,47.1
+2020,Electrical Machinery,26.3
+2020,Info & Communication Equipment,43.3
+2020,Transport Equipment,45.5
+2020,Other Manufacturing,27.2
+2020,"Agriculture, Forestry & Fishery",16.3
+2020,Mining,4.7
+2020,Construction,5.8
+2020,Information & Communications,2.4
+2020,Transportation (services),24.6
+2020,Wholesale,16.5
+2020,Retail,2.2
+2020,Services,14.1
+2020,Other Non-Manufacturing,1.7
+2021,Food Products,2.6
+2021,Textiles,12.0
+2021,"Wood, Paper & Pulp",8.6
+2021,Chemicals,27.4
+2021,Petroleum & Coal,10.5
+2021,"Ceramics, Stone & Clay",29.4
+2021,Iron & Steel,28.6
+2021,Non-Ferrous Metals,33.9
+2021,Metal Products,11.4
+2021,General-Purpose Machinery,31.6
+2021,Production Machinery,51.2
+2021,Business-Use Machinery,49.5
+2021,Electrical Machinery,26.9
+2021,Info & Communication Equipment,46.0
+2021,Transport Equipment,46.7
+2021,Other Manufacturing,30.0
+2021,"Agriculture, Forestry & Fishery",5.8
+2021,Mining,1.3
+2021,Construction,3.6
+2021,Information & Communications,4.8
+2021,Transportation (services),15.4
+2021,Wholesale,18.6
+2021,Retail,1.8
+2021,Services,9.1
+2021,Other Non-Manufacturing,1.4
+2022,Food Products,2.9
+2022,Textiles,12.3
+2022,"Wood, Paper & Pulp",8.3
+2022,Chemicals,29.3
+2022,Petroleum & Coal,13.8
+2022,"Ceramics, Stone & Clay",28.6
+2022,Iron & Steel,28.3
+2022,Non-Ferrous Metals,37.6
+2022,Metal Products,10.5
+2022,General-Purpose Machinery,31.8
+2022,Production Machinery,55.3
+2022,Business-Use Machinery,52.5
+2022,Electrical Machinery,34.5
+2022,Info & Communication Equipment,46.7
+2022,Transport Equipment,46.1
+2022,Other Manufacturing,32.5
+2022,"Agriculture, Forestry & Fishery",5.3
+2022,Mining,1.5
+2022,Construction,5.4
+2022,Information & Communications,4.3
+2022,Transportation (services),20.5
+2022,Wholesale,15.7
+2022,Retail,0.6
+2022,Services,8.7
+2022,Other Non-Manufacturing,0.9
+2023,Food Products,3.3
+2023,Textiles,11.7
+2023,"Wood, Paper & Pulp",9.2
+2023,Chemicals,28.4
+2023,Petroleum & Coal,6.3
+2023,"Ceramics, Stone & Clay",27.9
+2023,Iron & Steel,21.5
+2023,Non-Ferrous Metals,42.4
+2023,Metal Products,12.7
+2023,General-Purpose Machinery,34.0
+2023,Production Machinery,52.8
+2023,Business-Use Machinery,48.3
+2023,Electrical Machinery,27.1
+2023,Info & Communication Equipment,44.9
+2023,Transport Equipment,50.8
+2023,Other Manufacturing,30.5
+2023,"Agriculture, Forestry & Fishery",6.0
+2023,Mining,5.7
+2023,Construction,5.2
+2023,Information & Communications,3.4
+2023,Transportation (services),13.0
+2023,Wholesale,15.2
+2023,Retail,1.1
+2023,Services,10.0
+2023,Other Non-Manufacturing,0.6
+2024,Food Products,2.8
+2024,Textiles,9.8
+2024,"Wood, Paper & Pulp",9.4
+2024,Chemicals,30.7
+2024,Petroleum & Coal,11.8
+2024,"Ceramics, Stone & Clay",29.6
+2024,Iron & Steel,22.8
+2024,Non-Ferrous Metals,34.8
+2024,Metal Products,13.2
+2024,General-Purpose Machinery,33.6
+2024,Production Machinery,49.8
+2024,Business-Use Machinery,48.2
+2024,Electrical Machinery,24.7
+2024,Info & Communication Equipment,48.2
+2024,Transport Equipment,47.0
+2024,Other Manufacturing,29.5
+2024,"Agriculture, Forestry & Fishery",16.5
+2024,Mining,2.3
+2024,Construction,4.1
+2024,Information & Communications,3.9
+2024,Transportation (services),12.0
+2024,Wholesale,13.9
+2024,Retail,2.1
+2024,Services,14.5
+2024,Other Non-Manufacturing,1.0

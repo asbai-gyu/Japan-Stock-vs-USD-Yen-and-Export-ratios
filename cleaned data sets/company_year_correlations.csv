@@ -1,0 +1,188 @@
+fiscal_year,company,industry,stock_corr
+2014,idemitsu,Petroleum & Coal,0.21040137051574712
+2014,mitsubishi,Chemicals,0.19741846410888547
+2014,oji,"Wood, Paper & Pulp",0.1928924415985376
+2014,teijin,Textiles,0.17924743811704053
+2014,ajinomoto,Food Products,0.185059144724289
+2014,kajima,Construction,0.02254044425855947
+2014,okuma,Production Machinery,0.2675714833839403
+2014,kewpie,Food Products,-0.027192382876462053
+2014,toyota,Transport Equipment,0.32124131322142474
+2014,toray,Textiles,0.2201754741422301
+2014,meiji,Food Products,0.172009907278022
+2014,nippon_paper,"Wood, Paper & Pulp",0.1489139986717082
+2014,shin_etsu,Chemicals,0.30487652202446425
+2014,eneos,Petroleum & Coal,0.20277758721255612
+2014,honda,Transport Equipment,0.29030253606006895
+2014,tokyo_electron,Production Machinery,0.22251127737564336
+2014,obayashi,Construction,0.08605192525857676
+2015,idemitsu,Petroleum & Coal,0.24783645766970408
+2015,mitsubishi,Chemicals,0.3458502252695639
+2015,oji,"Wood, Paper & Pulp",0.3149416041559431
+2015,teijin,Textiles,0.3415889189465837
+2015,ajinomoto,Food Products,0.3407971902888244
+2015,kajima,Construction,0.30073307750857775
+2015,okuma,Production Machinery,0.3111978093883126
+2015,kewpie,Food Products,0.3039117642109982
+2015,toyota,Transport Equipment,0.4106377670806793
+2015,toray,Textiles,0.33089478399913047
+2015,meiji,Food Products,0.2926765095112619
+2015,nippon_paper,"Wood, Paper & Pulp",0.17286565163958356
+2015,shin_etsu,Chemicals,0.3556897495659072
+2015,eneos,Petroleum & Coal,0.26615241592989236
+2015,honda,Transport Equipment,0.3425456680769334
+2015,tokyo_electron,Production Machinery,0.34353531599794596
+2015,obayashi,Construction,0.2976112169613845
+2016,idemitsu,Petroleum & Coal,0.1969954465274442
+2016,mitsubishi,Chemicals,0.3108743434406779
+2016,oji,"Wood, Paper & Pulp",0.2936446758564769
+2016,teijin,Textiles,0.31358670501424535
+2016,ajinomoto,Food Products,0.16734287006606244
+2016,kajima,Construction,0.28513205339944614
+2016,okuma,Production Machinery,0.2942534367266185
+2016,kewpie,Food Products,-0.011500145128045867
+2016,toyota,Transport Equipment,0.33219801394521886
+2016,toray,Textiles,0.3305072322308105
+2016,meiji,Food Products,0.10816864710781109
+2016,nippon_paper,"Wood, Paper & Pulp",0.229841390384849
+2016,shin_etsu,Chemicals,0.31287958106709335
+2016,eneos,Petroleum & Coal,0.25515408966666797
+2016,honda,Transport Equipment,0.34365656651303095
+2016,tokyo_electron,Production Machinery,0.31122577111241334
+2016,obayashi,Construction,0.22900357981256292
+2017,idemitsu,Petroleum & Coal,0.057546008078457764
+2017,mitsubishi,Chemicals,0.15256832408864315
+2017,oji,"Wood, Paper & Pulp",0.09873160493506657
+2017,teijin,Textiles,0.16594286251197396
+2017,ajinomoto,Food Products,0.05935464659583515
+2017,kajima,Construction,0.16135871136318886
+2017,okuma,Production Machinery,0.06627851187689038
+2017,kewpie,Food Products,0.1596525523097289
+2017,toyota,Transport Equipment,0.09046264405006929
+2017,toray,Textiles,-0.018822134619746467
+2017,meiji,Food Products,0.10353321790063659
+2017,nippon_paper,"Wood, Paper & Pulp",0.058461112457526915
+2017,shin_etsu,Chemicals,0.13544790092805123
+2017,eneos,Petroleum & Coal,-0.008352090272981743
+2017,honda,Transport Equipment,0.08008379003551855
+2017,tokyo_electron,Production Machinery,0.06477140267131691
+2017,obayashi,Construction,0.13261924095764896
+2018,idemitsu,Petroleum & Coal,0.13701696547587366
+2018,mitsubishi,Chemicals,0.18511167561193004
+2018,oji,"Wood, Paper & Pulp",0.14473509610249088
+2018,teijin,Textiles,0.1907706490209317
+2018,ajinomoto,Food Products,0.025140668943556807
+2018,kajima,Construction,0.16486564644966087
+2018,okuma,Production Machinery,0.13472608036794761
+2018,kewpie,Food Products,0.08740083288701794
+2018,toyota,Transport Equipment,0.17451729979968297
+2018,toray,Textiles,0.1797062155482578
+2018,meiji,Food Products,0.17449955701237088
+2018,nippon_paper,"Wood, Paper & Pulp",0.10618289719946773
+2018,shin_etsu,Chemicals,0.1530626550883251
+2018,eneos,Petroleum & Coal,0.08466576168520408
+2018,honda,Transport Equipment,0.13506538767281495
+2018,tokyo_electron,Production Machinery,0.13750263804416935
+2018,obayashi,Construction,0.23309969898423827
+2019,idemitsu,Petroleum & Coal,0.13992796564674134
+2019,mitsubishi,Chemicals,0.24367161818689242
+2019,oji,"Wood, Paper & Pulp",0.2953752112565297
+2019,teijin,Textiles,0.061714471485910596
+2019,ajinomoto,Food Products,0.05533061236399717
+2019,kajima,Construction,0.09024746304639988
+2019,okuma,Production Machinery,0.0458663973300606
+2019,kewpie,Food Products,0.14950265207239422
+2019,toyota,Transport Equipment,0.207670026550422
+2019,toray,Textiles,0.04512375263029651
+2019,meiji,Food Products,0.02446774498394392
+2019,nippon_paper,"Wood, Paper & Pulp",0.10230807181843567
+2019,shin_etsu,Chemicals,0.11591247122946219
+2019,eneos,Petroleum & Coal,0.06195149292353939
+2019,honda,Transport Equipment,0.18824200601675106
+2019,tokyo_electron,Production Machinery,0.11898840503050158
+2019,obayashi,Construction,0.08322295128928435
+2020,idemitsu,Petroleum & Coal,0.031370947955025416
+2020,mitsubishi,Chemicals,0.10899256185665719
+2020,oji,"Wood, Paper & Pulp",0.08084683747537247
+2020,teijin,Textiles,0.11412647954076074
+2020,ajinomoto,Food Products,-0.0013661459116492227
+2020,kajima,Construction,0.0989226670335972
+2020,okuma,Production Machinery,0.1307659762077262
+2020,kewpie,Food Products,0.034024594334036866
+2020,toyota,Transport Equipment,0.08670391621765448
+2020,toray,Textiles,0.043974485625414714
+2020,meiji,Food Products,0.10103137870139481
+2020,nippon_paper,"Wood, Paper & Pulp",0.06608770415859394
+2020,shin_etsu,Chemicals,0.043668949251407886
+2020,eneos,Petroleum & Coal,0.09152778101544107
+2020,honda,Transport Equipment,0.17665724464177932
+2020,tokyo_electron,Production Machinery,-0.030666035635913205
+2020,obayashi,Construction,0.0925779423190971
+2021,idemitsu,Petroleum & Coal,0.1029420790536544
+2021,mitsubishi,Chemicals,-0.02161152166490616
+2021,oji,"Wood, Paper & Pulp",0.03215321865323678
+2021,teijin,Textiles,0.09278523459032366
+2021,ajinomoto,Food Products,-3.188956768763185e-05
+2021,kajima,Construction,0.02540682924338261
+2021,okuma,Production Machinery,0.1358148610239922
+2021,kewpie,Food Products,-0.018464639389064
+2021,toyota,Transport Equipment,0.11107084799234693
+2021,toray,Textiles,0.04428779665837077
+2021,meiji,Food Products,0.020817195939400793
+2021,nippon_paper,"Wood, Paper & Pulp",0.02247844033488772
+2021,shin_etsu,Chemicals,0.003609980073261804
+2021,eneos,Petroleum & Coal,0.12798799131394611
+2021,honda,Transport Equipment,0.09897386787951355
+2021,tokyo_electron,Production Machinery,0.032598824121499066
+2021,obayashi,Construction,0.007403605198941661
+2022,idemitsu,Petroleum & Coal,0.059560276229131334
+2022,mitsubishi,Chemicals,0.046452869157596485
+2022,oji,"Wood, Paper & Pulp",-0.05828245254315536
+2022,teijin,Textiles,0.05112396793828308
+2022,ajinomoto,Food Products,0.009975067672694918
+2022,kajima,Construction,-0.02749625426773738
+2022,okuma,Production Machinery,0.14504930564930943
+2022,kewpie,Food Products,0.03413723749014223
+2022,toyota,Transport Equipment,0.11325127907039378
+2022,toray,Textiles,0.07414406864594168
+2022,meiji,Food Products,-0.028426832330778445
+2022,nippon_paper,"Wood, Paper & Pulp",0.03889887389712962
+2022,shin_etsu,Chemicals,0.0033457205007813673
+2022,eneos,Petroleum & Coal,0.09513719035383011
+2022,honda,Transport Equipment,0.12184752998119702
+2022,tokyo_electron,Production Machinery,-0.05558015529490265
+2022,obayashi,Construction,0.11855644799866269
+2023,idemitsu,Petroleum & Coal,0.1343451349993893
+2023,mitsubishi,Chemicals,0.11105253994827605
+2023,oji,"Wood, Paper & Pulp",0.1009067829436652
+2023,teijin,Textiles,0.14344897432409837
+2023,ajinomoto,Food Products,0.1818228302260204
+2023,kajima,Construction,0.1623834277738695
+2023,okuma,Production Machinery,0.1961776625775424
+2023,kewpie,Food Products,0.1336282478748487
+2023,toyota,Transport Equipment,0.19235878070506748
+2023,toray,Textiles,0.11764561903482795
+2023,meiji,Food Products,0.1013996531608414
+2023,nippon_paper,"Wood, Paper & Pulp",-0.01628972872751981
+2023,shin_etsu,Chemicals,0.021100466449174363
+2023,eneos,Petroleum & Coal,0.11447170017558625
+2023,honda,Transport Equipment,0.21984846851658388
+2023,tokyo_electron,Production Machinery,0.1199025870671949
+2023,obayashi,Construction,0.08606400264173045
+2024,idemitsu,Petroleum & Coal,0.1428233049276474
+2024,mitsubishi,Chemicals,0.14219075909582915
+2024,oji,"Wood, Paper & Pulp",0.13874966600985833
+2024,teijin,Textiles,0.05607354020088962
+2024,ajinomoto,Food Products,0.05142469139657042
+2024,kajima,Construction,0.053326358181615845
+2024,okuma,Production Machinery,0.11163903712614533
+2024,kewpie,Food Products,-0.02327591595575243
+2024,toyota,Transport Equipment,0.1040086940692626
+2024,toray,Textiles,-0.009909570759537691
+2024,meiji,Food Products,0.036447299913930496
+2024,nippon_paper,"Wood, Paper & Pulp",0.018169791117470857
+2024,shin_etsu,Chemicals,-0.005240798087820444
+2024,eneos,Petroleum & Coal,0.18507286149589167
+2024,honda,Transport Equipment,0.04181527295047384
+2024,tokyo_electron,Production Machinery,0.06917041930647908
+2024,obayashi,Construction,0.09720917726502164
